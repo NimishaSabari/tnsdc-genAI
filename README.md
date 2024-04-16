@@ -7,8 +7,8 @@ Usage: Generate Time-Series Data: The "generate_time_series_data" function creat
 Values: The project involves generating synthetic time-series data, creating and training an autoencoder model, and evaluating its performance. The value proposition lies in the ability of the autoencoder to capture temporal patterns within the data and generate accurate predictions of future values. This solution offers insights into future trends and behavior, facilitating informed decision-making in various domains such as finance, energy, and healthcare.
 
 Advantages: The project stands out by leveraging autoencoders to effectively capture intricate temporal patterns in time-series data, enabling accurate forecasting of future values. Autoencoders excel in learning meaningful representations from sequential data, facilitating better understanding and prediction of complex temporal dynamics. By providing precise forecasts, the project aids in decision-making across various domains, offering insights into future trends and optimizing resource allocation. The advantages include improved accuracy, scalability, and interpretability of forecasts, empowering stakeholders with actionable insights for informed planning and decision-making.
-
 TIME_SERIES_OUTPUT:
+
 ![Screenshot 2024-04-16 123958](https://github.com/NimishaSabari/tnsdc-genAI/assets/129221733/3b888fca-8940-49e6-af69-be53ca8ef031)
 
 
