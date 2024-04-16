@@ -1,4 +1,4 @@
-![Screenshot 2024-04-16 123958](https://github.com/NimishaSabari/tnsdc-genAI/assets/129221733/029d8e40-0688-4b09-992e-50a5fffb2908)# tnsdc-genAI
+# tnsdc-genAI
 
 Project Overview: The project aims to forecast future values in time-series data by leveraging autoencoder neural networks. It generates synthetic time-series data, creates and trains an autoencoder model, and uses it to generate future sequences.
 
